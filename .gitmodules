@@ -1,3 +1,6 @@
 [submodules "public/bootstrap"]
 	path = pubic/bootstrap
 	url = https://github.com/twbs/bootstrap.git
+[submodule "https:/github.com/twbs/bootstrap.git"]
+	path = https:/github.com/twbs/bootstrap.git
+	url = ./public/bootstrap
